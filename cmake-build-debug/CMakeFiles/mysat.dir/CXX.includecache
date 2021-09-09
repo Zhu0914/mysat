@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/download/shudu/mysat/DPLL.cpp
+global.h
+D:/download/shudu/mysat/global.h
+thread
+-
+
+D:/download/shudu/mysat/clause.cpp
+global.h
+D:/download/shudu/mysat/global.h
+
+D:/download/shudu/mysat/file.cpp
+global.h
+D:/download/shudu/mysat/global.h
+
+D:/download/shudu/mysat/global.cpp
+global.h
+D:/download/shudu/mysat/global.h
+
+D:/download/shudu/mysat/global.h
+bits/stdc++.h
+-
+windows.h
+-
+
+D:/download/shudu/mysat/main.cpp
+global.h
+D:/download/shudu/mysat/global.h
+
+D:/download/shudu/mysat/sudu.cpp
+global.h
+D:/download/shudu/mysat/global.h
+
